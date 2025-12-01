@@ -211,12 +211,12 @@
     },
     {
       "id": 3,
-      "title": "Weather Dashboard",
-      "description": "A responsive weather application with forecast and location services",
-      "image": "🌤️",
-      "technologies": ["React", "API", "Chart.js"],
+      "title": "Portfolio website",
+      "description": "A personal portfolio website built with React.js to showcase my projects and skills.",
+      "image": "💼",
+      "technologies": ["React", "Bootstrap", "CSS"],
       "liveLink": "#",
-      "githubLink": "#"
+      "githubLink": "https://anilkumar65.github.io/FinalReactPortfolio/"
     }
   ]
 }
