@@ -1,0 +1,216 @@
+{
+
+"projectTitle": "アニルのポートフォリオ",
+
+ "Greed": "こんにちは、",
+  "myName": "ヤダブ　アニル",
+  "ending": "と申します！",
+  "shortDiscription": "言語と技術で文化をつなぐ",
+  "discription": "多言語を操るクリエイターであり、コミュニケーション、問題解決、そして意味のある体験に情熱を注いでいます。",
+  "fullName": "ヤダブ　アニルクマル",
+  "mainRole": "フロントエンド開発者 • React & UI/UX",
+"button": {
+  "MyProject": "プロジェクト",
+  "ContactMe": "お問い合わせ",
+  "SendMessage": "メッセージを送る"
+},
+
+"sectionName":{
+  "home":"ホーム",
+  "about":"私について",
+  "skills":"スキル",
+  "portfolio":"ポートフォリオ",
+  "contact":"お問い合わせ",
+  "project":"プロジェクト"
+
+},
+"section":{
+"intro":"紹介",
+"skills":"スキル",
+"portfolio":"ポートフォリオ",
+"contact":"お問い合わせ",
+"education":"学歴"    
+},
+"placeholder1":"あなたの名前",
+"placeholder2":"あなたのメール",
+"placeholder3":"あなたのメッセージ",
+"contactlabelName":"名前",
+"contactlabelEmail":"メール",
+"contactlabelMessage":"メッセージ",
+"contactAlertMsg":"メッセージをありがとうございます！すぐにご連絡いたします。",
+
+"introduction":{
+  "para1":"こんにちは、ヤダブ　アニルクマルです。",
+  "para2":"2014年に日本語を学ぶために来日し、その後英語情報マネジメント学部でITに焦点を当てた学位を取得しました。卒業後は、ホテルのフロントデスク業務や派遣社員としての翻訳・通訳の経験を積みました。TOEICスコアは755点です。",
+  "para3":"Java、React、JavaScript、HTML＆CSS、Word、Excel、PowerPointに熟練しており、日本語、英語、ネパール語、ヒンディー語の4言語でコミュニケーションが可能です。多文化的な背景と優れたコミュニケーションスキルを活かし、多様な環境で活躍し、技術的な能力と適応力の両方を通じて価値を提供することを目指しています。" 
+},
+
+"education":{
+ "sectionTitle":"学歴",
+  "educationDatas": [
+  {
+      "id": 1,
+      "school": "高校",
+      "schoolName": "オーキッドサイエンスカレッジ",
+      "period": "2011年7月 - 2013年6月",
+      "description":
+        "ネパールで理系と数学の科目で高校を卒業しました。英語、コンピュータ、社会道徳も学びました。" 
+    },
+    {
+      "id": 2,
+       "school": "日本語学校 ",
+      "schoolName": "九州国際教育学院 ",   
+      "period": "2014年8月 - 2016年3月",
+      "description":
+        "福岡県博多市にある九州国際教育学院で日本語を学びました。" 
+    },
+    {
+      "id": 3,
+       "school": "大学",
+      "schoolName": "秀明大学",
+      "period": "2016年4月 - 2020年3月",
+      "description":
+        "日本語学校を卒業後、千葉県の秀明大学に入学しました。英語情報マネジメント学部ITキャリアに所属し、プログラミング言語、グラフィックスとデザイン、データベースなどを学びました。" 
+    },
+    {
+      "id": 4,
+       "school": "ITスクール",
+      "schoolName": "デザインスクール",
+      "period": "2021年5月 - 2021年7月",
+      "description":
+        "デザインスクールでフロントエンド開発とUI/UXデザインの集中コースを修了しました。"
+    }
+  ]  ,
+  "sectionTitle2":"資格・認定",
+  "certifications": [
+    {
+      "id": 1,
+      "name": "日本語-N2",
+      "date": "2023年3月",
+      "credentialId": "N2"
+      
+    },
+    {
+      "id": 2,
+      "name": "TOIEC",
+      "issuer": "",
+      "date": "2022年5月",
+      "credentialId": "TOEIC-755"
+    }
+  ]                                                                    
+
+},
+"workExperience":{ 
+  "sectionTitle": "職務経歴",
+  "subTitle": "職務履歴",
+  "workHistory": [
+    {
+      "id": 1,
+      "companyName": "ホテル志賀高原",
+      "roleWork": "フロントデスクスタッフ",
+      "period": "2020年11月 - 2021年4月",
+      "description": "フロント業務では、チェックイン・チェックアウト対応をはじめ、予約管理、電話応対、さらには海外のお客様への対応など幅広い業務を担当しました。これらの経験を通して、状況に応じた適切な接客対応力を身につけ、予期せぬトラブルにも冷静かつ柔軟に対処する能力を培いました。また、海外のお客様とのコミュニケーション経験により、英語を中心とした語学スキルの向上にもつながりました。",
+      "Tools": "Excel/word/powerpoint/Outlook"
+    },
+    {
+      "id": 2,
+      "companyName": "キャリアネクスト",
+      "roleWork": "オフィスワーク、通訳",
+      "period": "2021年05月 - 2022年09月",
+      "description": "日本語・英語・ネパール語の翻訳および通訳業務に従事し、外国人スタッフの採用・教育・労務管理を担当していました。現場では業務指導やサポートを行い、円滑に業務が進むよう支援しました。また、日本人スタッフとの橋渡し役としてコミュニケーションの調整を行い、多文化環境におけるチームワークの強化に貢献しました。",
+      "Tools": "Microsoft excel/word/powerpoint"
+     
+    } ,
+    {
+      "id": 3,
+      "companyName": "NAAリテイリング",
+      "roleWork": "オフィスワーク、販売員、通訳",
+      "period": "2022年11月 - 2025年4月",
+      "description": "空港免税店での勤務を通じて、商品販売、在庫管理、レジ業務、接客通訳、バックオフィス業務など幅広い業務を担当しました。これらの経験により、迅速かつ丁寧な接客スキルを身につけ、多国籍のお客様への対応力を高め、円滑なコミュニケーションを実現することができました。また、顧客満足度の向上にも貢献し、サービス品質の改善に寄与しました。",
+      "Tools": "Excel/word/powerpoint/Outlook"
+    } ,
+    {
+      "id": 4,
+      "companyName": "スタッフサービスエンジニアリング",
+      "roleWork": "オフィスワーク、ITワーク、通訳",
+      "period": "2025年05月 - 現在",
+      "description": "CMSを使用してウェブページの構築および保守を行い、主に英語版ページの作成を担当していました。また、Outlookを使用して主催者との調整業務を行い、海外のお客様からの問い合わせにはメールで対応していました。さらに、Excelを用いて毎月英語のニュースレターを作成する業務も担当しており、これらの経験を通して、正確性を重視したコンテンツ運用スキルや円滑なコミュニケーション能力を身に付けました。",
+      "Tools": "Excel/CMS/word/powerpoint/HTML/CSS/Outlook"
+      
+    }
+  ]   
+},
+"skillSections": {
+  "sectionTitle": "スキル",
+  "skillSection": [
+    {
+      "title": "コンピュータースキル",
+      "skills": [
+         { "name": "HTML & CSS", "level": 90 },
+         { "name": "JavaScript", "level": 80 },
+         { "name": "React", "level": 70 },
+         { "name": "Java", "level": 75 },
+         { "name": "Microsoft Word", "level": 85 },
+         { "name": "Microsoft Excel", "level": 80 },
+         { "name": "Microsoft PowerPoint", "level": 80 }
+       
+      ]
+    },
+    {
+      "title": "言語スキル",
+      "skills": [
+        {"name":"日本語","level": 80},
+        {"name":"英語","level": 75},
+        {"name":"ネパール語","level": 90},
+        {"name":"ヒンディー語","level": 85}
+      ]
+       
+    },
+    {
+      "title": "ツールスキル",
+      "skills": [
+        {"name":"Visual Studio Code","level": 80 }, 
+        {"name":"Eclipse","level": 75 },
+        {"name":"Outlook","level": 90 },
+        {"name":"IntelliJ IDEA","level": 85 }
+
+      ]
+    }
+  ] 
+},
+"projectsData": {
+  "sectionTitle": "プロジェクト ",
+  "projects": [
+    {
+      "id": 1,
+      "title": "Eコマースウェブサイト",
+      "description": "WordPressのWooCommerceプラグインを使用したフルスタックのEコマースソリューション",
+      "image": "🛒",
+      "technologies": ["wordpress","css","canvas"],
+      "liveLink": "https://rajdhanidairy.com/",
+      "githubLink": "#"
+    },
+    {
+      "id": 2,
+      "title": "会社ウエブサイト",
+      "description": "HTML、CSS、JavaScriptを使用して、企業向けウェブサイトの設計・構築を担当しました。",
+      "image": "💼",
+      "technologies": ["HTML", "CSS", "JS"],
+      "liveLink": "#",
+      "githubLink": "https://anilkumar65.github.io/anurajco/"
+    },
+    {
+      "id": 3,
+      "title": "ポートフォリオサイト",
+      "description": "ReactとBootstrapを使用して、個人のポートフォリオウェブサイトを開発しました。",
+      "image": "📁",
+      "technologies": ["react","bootstrap","css"],
+      "liveLink": "#",
+      "githubLink": "#"
+    }
+
+  ]
+
+}
+
+}

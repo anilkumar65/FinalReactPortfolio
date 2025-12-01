@@ -1,0 +1,222 @@
+{
+"projectTitle": "Anil's Portfolio",
+
+ "Greed": "Hi、My name is ",
+  "myName": "Anil Yadav",
+  "shortDiscription": "Connecting Cultures Through Language & Technology",
+  "discription": "I create beautiful, responsive web applications using modern technologies. A multilingual creator passionate about communication, problem-solving, and meaningful experiences.",
+
+"fullName": "Anil Kumar Yadav",
+"mainRole": "Frontend Developer • React & UI/UX",
+
+"button": {
+  "MyProject": "My Projects",
+  "ContactMe": "Contact Me",
+  "SendMessage": "Send Message"
+},
+
+"sectionName":{
+  "home":"Home",
+  "about":"About ",
+  "skills":"Skills",
+  "portfolio":"Portfolio",
+  "contact":"Contact",
+  "project":"Projects"
+},
+
+"section":{
+"intro":"Introduction",
+"skills":"Skills",
+"portfolio":"Portfolio",
+"contact":"Get in Touch",
+"education":"Education" 
+},
+"placeholder1":"Your Name",
+"placeholder2":"Your Email",
+"placeholder3":"Your Message",
+"contactlabelName":"Name",
+"contactlabelEmail":"Email",
+"contactlabelMessage":"Message",
+"contactAlertMsg":"Thank you for your message! I'll get back to you soon.",
+
+
+"introduction":{
+  "para1":"Hi, I'm Anil kumar.",
+  "para2":"I came to Japan in 2014 to study the Japanese language and later pursued an IT-focused degree in the Faculty of English Information Management. After graduating, I gained experience in hotel front-desk operations as well as translation and interpretation as a dispatch employee. I also hold a TOEIC score of 755.",
+  "para3":"I am skilled in Java, React, JavaScript, HTML & CSS, Word,Excel, and PowerPoint, and I can communicate in four languages:Japanese, English, Nepali, and Hindi. Leveraging my multicultural background and strong communication skills, I thrive in diverse environments and aim to contribute value through both my technical abilities and adaptability."
+},
+"education":{
+"sectionTitle":"Education ",
+"educationDatas": [
+  {
+      "id": 1,
+      "school": "High School",
+      "schoolName": "ORCHID SCIENCE COLLEGE",
+      "period": "2011年7月 - 2013年6月",
+      "description":
+        "I graduate my high school in Nepal with science stream and mathematics.I had also studied english,computer and social morality."
+    
+    },
+    {
+      "id": 2,
+       "school": "Japanese language school",
+      "schoolName": "KYUSHU INTERNATIONAL EDUCATION INSTITUTE",
+      "period": "2014年8月 - 2016年3月",
+      "description":
+        "I studied Japanese language in kyushu international education institute which is located in Hakata city of Fukuoka prefecture."
+   
+    },
+    {
+      "id": 3,
+       "school": "University",
+      "schoolName": "SHUMEI UNIVERSITY",
+      "period": "2016年4月 - 2020年3月",
+      "description":
+        "After graduate from japanese language school, I got admission in shumei university of chiba prefecture. In university i join faculty of English and Information Management with IT career where i studied Programming languages,graphics and design,database,etc"
+    
+    },
+    {
+      "id": 4,
+       "school": "IT institute",
+      "schoolName": "DESIGN SCHOOL",
+      "period": "2021年5月 - 2021年7月",
+      "description":
+        "I learnt and trained HTML,CSS and JAVASCRIPT in design school located in shibuya city with japanese teacher for 3 months (3hours per weeks)"
+     
+    }
+  ],
+  "sectionTitle2":"Certifications",
+   "certifications" : [
+    {
+      "id": 1,
+      "name": "JLPT-N2",
+      "date": "2023年3月"
+    },
+    {
+      "id": 2,
+      "name": "TOIEC",
+      
+      "date": "2022年5月"
+      
+    }
+    
+  ]
+},
+
+"workExperience": { 
+  "sectionTitle": "Work Experience",
+  "subTitle": "Work History",
+  "workHistory": [
+    {
+      "id": 1,
+      "companyName": "HOTEL SHIGAKOGEN ",
+      "roleWork": "Front-desk,Interpreture",
+      "period": "2020年11月 - 2021年4月",
+      "description": "Responsible for a broad range of front desk operations, including check-in and check-out procedures, reservation management, telephone inquiries, and support for international guests. Demonstrated strong customer service skills with the ability to respond appropriately and professionally in various situations, including unforeseen challenges. Enhanced language proficiency—particularly in English—through frequent communication with overseas guests, while maintaining a high standard of service and hospitality.",
+      "Tools": "Microftsoft 365"
+      
+    },
+    {
+    "id": 2,
+      "companyName": "CAREER NEXT",
+      "roleWork": "Office-work,Interpreture",
+      "period": "2021年05月 - 2022年09月",
+      "description": "I was responsible for translation and interpretation in Japanese, English, and Nepali, as well as the recruitment, training, and labor management of foreign staff. In the field, I provided operational guidance and support to ensure smooth workflow. Additionally, I served as a bridge between foreign staff and Japanese staff, facilitating effective communication and contributing to a more cohesive multicultural work environment.",
+      "Tools": "Microsoft excel/word/powerpoint"
+      
+    },
+    {
+      "id": 3,
+      "companyName": "NAA-retailing",
+      "roleWork": "Office-work,salesman,Interpreture",
+      "period": "2022年11月 - 2025年4月",
+      "description": "Through my experience working at an airport duty-free shop, I handled a wide range of responsibilities, including product sales, inventory management, cashier operations, customer service interpretation, and various back-office tasks. These duties enabled me to develop fast, efficient, and attentive customer service skills. I also strengthened my ability to assist a diverse, multinational customer base, ensuring smooth and effective communication. Furthermore, my contributions supported improved customer satisfaction and enhanced overall service quality.",
+      "Tools": "Excel/word/powerpoint/Outlook"
+    },    
+    {
+      "id": 4,
+      "companyName": "STAFF SERVICE ENGINEERING",
+      "roleWork": "Office-work,IT-work,Interpreture",
+      "period": "2025年05月 - Now",
+      "description": "I have experience working with CMS platforms to build and maintain webpages, primarily setting up English-language pages and coordinating with organizers via Outlook. My role also involved assisting international customers through email support and preparing monthly English newsletters using Excel. Through these tasks, I developed strong communication skills, attention to detail, and the ability to manage digital content efficiently.",
+      "Tools": "Excel/CMS/word/powerpoint/HTML/CSS/Outlook"
+     
+    }  
+  ]
+  
+},
+"skillSections":{
+  "sectionTitle": "Skills",
+"skillSection" : [
+  {
+    "title": "Computer Skills",
+    "skills": [
+      { "name": "HTML & CSS", "level": 90 },
+      { "name": "Bootstrap & Wordpress", "level": 80 },
+      { "name": "React", "level": 75 },
+      {"name": "Java", "level": 70 },
+      { "name": "JavaScript", "level": 85 },
+      { "name": "Excel", "level": 65 },
+      { "name": "Word", "level": 65 },
+      { "name": "Powerpoint", "level": 65 }
+    ]
+  },
+  {
+    "title": "Languages Skills",
+    "skills": [
+      { "name": "Japanese", "level": 80 },
+      { "name": "English", "level": 75 },
+      { "name": "Nepali", "level": 90 },
+      { "name": "Hindi", "level": 85 }
+      
+    ]
+  },
+  {
+    "title": "Tools Skills",
+    "skills": [
+      { "name": "Visual studio code", "level": 80 },
+      { "name": "Eclipse", "level": 75 },
+      { "name": "Outlook", "level": 90 },
+      { "name": "IntelliJ IDEA", "level": 85 }
+      
+    ]
+  }
+]
+    },
+
+
+
+
+    "projectsData": {
+      "sectionTitle": "Projects ",
+      "projects":[
+    {
+      "id": 1,
+      "title": "E-Commerce website",
+      "description": "A full-stack e-commerce solution with wordpress's woocommerce plugin",
+      "image": "🛒",
+      "technologies": ["wordpress","css","canvas"],
+      "liveLink": "https://rajdhanidairy.com/",
+      "githubLink": "#"
+    },
+    {
+      "id": 2,
+      "title": "Company website",
+      "description": "A website for a company using HTML,CSS and javascript",
+      "image": "<->",
+      "technologies": ["HTML", "CSS", "JS"],
+      "liveLink": "#",
+      "githubLink": "https://anilkumar65.github.io/anurajco/"
+    },
+    {
+      "id": 3,
+      "title": "Weather Dashboard",
+      "description": "A responsive weather application with forecast and location services",
+      "image": "🌤️",
+      "technologies": ["React", "API", "Chart.js"],
+      "liveLink": "#",
+      "githubLink": "#"
+    }
+  ]
+}
+}
